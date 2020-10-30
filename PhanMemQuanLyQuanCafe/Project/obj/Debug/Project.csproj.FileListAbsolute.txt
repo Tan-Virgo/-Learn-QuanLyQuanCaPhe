@@ -1,0 +1,12 @@
+D:\_HOC_LAP_TRINH\_PROJECT_C#\QuanLyQuanCoffee\PhanMemQuanLyQuanCafe\Project\bin\Debug\Project.exe.config
+D:\_HOC_LAP_TRINH\_PROJECT_C#\QuanLyQuanCoffee\PhanMemQuanLyQuanCafe\Project\bin\Debug\Project.exe
+D:\_HOC_LAP_TRINH\_PROJECT_C#\QuanLyQuanCoffee\PhanMemQuanLyQuanCafe\Project\bin\Debug\Project.pdb
+D:\_HOC_LAP_TRINH\_PROJECT_C#\QuanLyQuanCoffee\PhanMemQuanLyQuanCafe\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\_HOC_LAP_TRINH\_PROJECT_C#\QuanLyQuanCoffee\PhanMemQuanLyQuanCafe\Project\obj\Debug\Project.fLogin.resources
+D:\_HOC_LAP_TRINH\_PROJECT_C#\QuanLyQuanCoffee\PhanMemQuanLyQuanCafe\Project\obj\Debug\Project.Properties.Resources.resources
+D:\_HOC_LAP_TRINH\_PROJECT_C#\QuanLyQuanCoffee\PhanMemQuanLyQuanCafe\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\_HOC_LAP_TRINH\_PROJECT_C#\QuanLyQuanCoffee\PhanMemQuanLyQuanCafe\Project\obj\Debug\Project.exe
+D:\_HOC_LAP_TRINH\_PROJECT_C#\QuanLyQuanCoffee\PhanMemQuanLyQuanCafe\Project\obj\Debug\Project.pdb
+D:\_HOC_LAP_TRINH\_PROJECT_C#\QuanLyQuanCoffee\PhanMemQuanLyQuanCafe\Project\obj\Debug\Project.fTableManager.resources
+D:\_HOC_LAP_TRINH\_PROJECT_C#\QuanLyQuanCoffee\PhanMemQuanLyQuanCafe\Project\obj\Debug\Project.fAccountProfile.resources
+D:\_HOC_LAP_TRINH\_PROJECT_C#\QuanLyQuanCoffee\PhanMemQuanLyQuanCafe\Project\obj\Debug\Project.fAdmin.resources
